@@ -175,5 +175,6 @@ JWT_SECRET=your_secret_key
 ---
 
 # 👨‍💻 Author
+Sandhya Adicherla
 
 Full-stack project built to demonstrate SaaS architecture, backend design, and frontend integration.
